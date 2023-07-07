@@ -1,0 +1,31 @@
+.container{
+    text-align: center;
+    border: 2px solid;
+    margin-top: 3rem;
+    border-radius: 5px;
+}
+
+.text{
+    padding-top: 1.5rem;
+}
+
+.box_rps{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 2rem 0rem;
+    border: 2px solid;
+    border-radius: 5px;
+}
+
+.box_rps img{
+    height: 200px;
+    padding: 2rem 2rem;
+    border: 2px solid;
+    margin: 2rem 0;
+    border-radius: 5px;;
+}
+
+.box_rps img:hover{
+    box-shadow: 0px 10px 50px blue;
+}
